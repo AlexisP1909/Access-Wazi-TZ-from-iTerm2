@@ -42,7 +42,7 @@ Copy the path of the file somewhere, you will need it soon
 Install Iterm2 (if you do not have it)
 
 Open profiles from the top bar (or command + O). Click on edit Profiles,
-Import the json profile from the file ItermWaziProfile.json 
+Import the json profile from the file [ItermWaziProfile.json](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/ItermWaziProfile.json) 
 ![[Screenshot 2025-03-17 at 14.58.29.png]]
 ## Modify parameters to suit your TZ (Techzone) instance
 

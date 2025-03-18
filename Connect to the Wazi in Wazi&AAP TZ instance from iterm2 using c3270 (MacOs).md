@@ -1,7 +1,7 @@
 ## Create a tso User
 
 Go to your reservation details and click on the Ansible Automation Platform UI link
-![[Screenshot 2025-03-17 at 15.04.12.png]]
+![Screenshot 2025-03-17 at 15.04.12.png](Screenshot 2025-03-17 at 15.04.12.png)
 Use admin as your username
 ```
 admin 

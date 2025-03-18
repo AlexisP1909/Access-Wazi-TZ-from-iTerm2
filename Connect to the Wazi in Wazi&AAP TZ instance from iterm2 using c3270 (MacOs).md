@@ -10,7 +10,7 @@ admin
 Your password is your **AAP User Password**
 
 Go in templates and find tso Commands
-![Screenshot 2025-03-17 at 15.30.56.png](a)
+![Screenshot 2025-03-17 at 15.30.56.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2015.30.56.png)
 run TSO command template with the following command
 ```
 ALTUSER <Your user id> PHRASE('<the password you choose>') NOEXPIRE RESUME
@@ -58,4 +58,4 @@ You will find the zos public IP address from your techzone reservation.
 (don't confuse it with the AAP public IP & make sure no space has appeared between the : and the first digit)
 
 In iterm 2 go back to Profiles and click on the profile you have set. You should have a c3270 terminal up and running.
-![[Pasted image 20250317154023.png]]
+![Pasted image 20250317154023.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Pasted%20image%2020250317154023.png)

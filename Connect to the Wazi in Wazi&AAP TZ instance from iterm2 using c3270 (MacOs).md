@@ -47,6 +47,7 @@ Install Iterm2 (if you do not have it)
 
 Open profiles from the top bar (or command + O). Click on edit Profiles,
 Import the json profile from the file [ItermWaziProfile.json](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/ItermWaziProfile.json) 
+
 (You may need to change a few parameters once the profile loaded, you have a screenshot below with what parameters I used)
 
 ![Screenshot 2025-03-17 at 14.58.29.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2014.58.29.png)

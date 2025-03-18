@@ -10,7 +10,7 @@ admin
 Your password is your **AAP User Password**
 
 Go in templates and find tso Commands
-![Screenshot 2025-03-17 at 15.30.56.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2015.14.07.png)
+![Screenshot 2025-03-17 at 15.30.56.png](a)
 run TSO command template with the following command
 ```
 ALTUSER <Your user id> PHRASE('<the password you choose>') NOEXPIRE RESUME
@@ -36,14 +36,14 @@ sudo cat /root/certificates/certificate.pem
 ```
 
 Copy the 2 certificates in a single new file and give it a name like wazi_cert.pem. (copy from ---BEGIN CERTIFICATE to the **2ND** --END CERTIFICATE)
-![[Screenshot 2025-03-17 at 15.14.07.png]]
+![Screenshot 2025-03-17 at 15.14.07.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2015.14.07.png)
 Copy the path of the file somewhere, you will need it soon
 ## Create Iterm2(terminal) profile to connect to Wazi on IBM Cloud
 Install Iterm2 (if you do not have it)
 
 Open profiles from the top bar (or command + O). Click on edit Profiles,
 Import the json profile from the file [ItermWaziProfile.json](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/ItermWaziProfile.json) 
-![[Screenshot 2025-03-17 at 14.58.29.png]]
+![Screenshot 2025-03-17 at 14.58.29.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2014.58.29.png)
 ## Modify parameters to suit your TZ (Techzone) instance
 
 ![Screenshot 2025-03-05 at 10.15.38.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-05%20at%2010.15.38.png)

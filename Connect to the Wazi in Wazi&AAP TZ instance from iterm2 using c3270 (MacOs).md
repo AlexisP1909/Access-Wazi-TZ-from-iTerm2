@@ -46,7 +46,7 @@ Import the json profile from the file [ItermWaziProfile.json](https://github.com
 ![[Screenshot 2025-03-17 at 14.58.29.png]]
 ## Modify parameters to suit your TZ (Techzone) instance
 
-![[Screenshot 2025-03-05 at 10.15.38.png]]
+![Screenshot 2025-03-05 at 10.15.38.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-05%20at%2010.15.38.png)
 Modify the **Send text at start** field
 ```
 c3270 -noverifycert -cafile YOUR/PATH/TO/CERT/certificate.pem -port 992 L:YOUR_ZOS_PUBLIC_IP_ADDRESS

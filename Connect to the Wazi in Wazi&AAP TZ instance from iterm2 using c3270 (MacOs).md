@@ -1,7 +1,7 @@
 ## Create a tso User
 
 Go to your reservation details and click on the Ansible Automation Platform UI link
-![Screenshot 2025-03-17 at 15.04.12.png](Screenshot 2025-03-17 at 15.04.12.png)
+![Screenshot 2025-03-17 at 15.04.12.png]([Screenshot 2025-03-17 at 15.04.12.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-05%20at%2010.19.02.png))
 Use admin as your username
 ```
 admin 
@@ -25,7 +25,7 @@ Open your OWN techzone reservation.
 The creds are the AAP User name (for SSH Access) and the AAP User password.
 
 Again you need to go get them from your AAP reservation.
-![[Screenshot 2025-03-17 at 15.04.12.png]]
+![Screenshot 2025-03-17 at 15.04.12.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-05%20at%2010.19.02.png)
 
 Once in the Cockpit **go to terminal** (you will need to scroll down on the left side menu for it to appear).
 

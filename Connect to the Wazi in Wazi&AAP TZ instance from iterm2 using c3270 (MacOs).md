@@ -10,7 +10,7 @@ admin
 Your password is your **AAP User Password**
 
 Go in templates and find tso Commands
-![Screenshot 2025-03-17 at 15.30.56.png]([Screenshot 2025-03-17 at 15.14.07.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2015.14.07.png))
+![Screenshot 2025-03-17 at 15.30.56.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2015.14.07.png)
 run TSO command template with the following command
 ```
 ALTUSER <Your user id> PHRASE('<the password you choose>') NOEXPIRE RESUME

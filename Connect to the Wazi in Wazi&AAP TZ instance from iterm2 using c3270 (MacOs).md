@@ -13,7 +13,7 @@ Go in templates and find tso Commands
 ![Screenshot 2025-03-17 at 15.30.56.png](https://github.com/AlexisP1909/Access-Wazi-TZ-from-iTerm2/blob/main/Screenshot%202025-03-17%20at%2015.30.56.png)
 run TSO command template with the following command
 ```
-ALTUSER <Your user id> PHRASE('<the password you choose>') NOEXPIRE RESUME
+ALTUSER IBMUSER PHRASE('YOUR NEW PASSPHRASE') NOEXPIRE RESUME
 ```
 
 Your user is IBMUSER and your password is the one you have set. It works to access tso and CICSTS (i didn't test other ways to interact with the system)
